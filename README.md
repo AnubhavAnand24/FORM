@@ -1,6 +1,6 @@
 # Form
 Registratio-Login form using react
-Here you can avail two features that is singing up in the form and logingin already have an account using the created password.
+Here you can avail two features that is singing up in the form and login if already have an account using the created password.
 
 ## Available Scripts
 
